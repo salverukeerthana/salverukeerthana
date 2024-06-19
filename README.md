@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Salveru Keerthana</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align ="right" alt="coding" width="400" src="https://www.google.com/imgres?q=animated%20coding%20gif%20of%20a%20girl&imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fe7%2F26%2Fc7%2Fe726c74ac081eed50feee1433d12c998.gif&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fhello-dribbble-by-chlo-chassany--717268678168057748%2F&docid=6zN6nteKRMUD4M&tbnid=tkD88475CNPNmM&vet=12ahUKEwjjt7jt7uWGAxWws1YBHSLcBVIQM3oFCIIBEAA..i&w=800&h=600&hcb=2&ved=2ahUKEwjjt7jt7uWGAxWws1YBHSLcBVIQM3oFCIIBEAA">
+<img align ="right" alt="coding" width="400" src="https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salverukeerthana&label=Profile%20views&color=0e75b6&style=flat" alt="salverukeerthana" /> </p>
